@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.mapView {
+  width: 90vw;
+  max-width: 90vw;
+  height: 90vh;
+  max-height: 90vh;
+} 
+
